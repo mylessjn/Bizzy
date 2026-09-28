@@ -1,0 +1,12 @@
+[project]
+name = "bizzy"
+version = "0.1.0"
+description = "Alexa extension enabling store operations via an MCP server."
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]",
+]
+
+[build-system]
+requires = ["setuptools>61"]
+build-backend = "setuptools.build_meta"
