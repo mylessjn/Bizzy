@@ -1,0 +1,24 @@
+ingredient,unit,current_qty,reorder_point,reorder_qty,supplier
+Espresso Coffee Beans,kg,30,15,30,Tropical Coffee
+Whole Milk,gallon,12,6,9,Kirkland
+Ice,kg,100,50,100,Local Ice Co.
+Pumpkin Spice Syrup,bottle,8,4,8,Torani
+White Chocolate Sauce,bottle,8,4,8,Ghirardelli
+Cocoa Powder,kg,10,6,12,Ghirardelli
+Simple Syrup,bottle,6,3,6,Monin
+Heavy Cream,gallon,4,2,4,Kirkland
+Enriched Flour,kg,20,10,20,Bakers Choice
+Unsalted Butter,kg,10,5,10,Kirkland
+Cream Cheese,kg,6,3,6,Philadelphia
+Eggs,count,60,30,60,Local Farm
+Granulated Sugar,kg,10,5,10,Domino
+Active Dry Yeast,kg,2,1,2,Bakers Choice
+Vanilla Extract,liter,2,1,2,McCormick
+Sourdough Bread,loaf,8,4,8,Local Bakery
+Fresh Avocados,count,40,20,40,Produce Express
+Bacon Strips,kg,6,3,6,Quality Meats
+Extra Virgin Olive Oil,liter,4,2,4,Kirkland
+Lemons,count,30,15,30,Produce Express
+Red Pepper Flakes,kg,2,1,2,Spice World
+Coarse Sea Salt,kg,2,1,2,Spice World
+Black Pepper,kg,2,1,2,Spice World
