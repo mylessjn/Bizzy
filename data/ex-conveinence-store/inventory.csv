@@ -1,0 +1,23 @@
+item,unit,price,current_qty,reorder_point,reorder_qty,supplier
+Bottled Water 16.9oz,count,1.00,240,96,240,Local Distributor
+Coca-Cola 12oz Can,count,1.50,144,48,144,Coca-Cola Distributor
+Sprite 12oz Can,count,1.50,96,36,96,Coca-Cola Distributor
+Red Bull 8.4oz,count,3.50,48,18,48,McLane
+Monster Energy 16oz,count,3.50,72,24,72,McLane
+Gatorade 20oz,count,2.50,72,24,72,Pepsi Distributor
+Lays Classic Chips,count,1.00,48,18,48,Frito-Lay
+Doritos Nacho Cheese,count,1.25,48,18,48,Frito-Lay
+Takis Fuego,count,1.25,36,12,36,McLane
+Snickers Bar,count,1.25,60,24,60,McLane
+Reeses Peanut Butter Cups,count,1.25,60,24,60,McLane
+Beef Jerky,count,1.25,30,10,30,McLane
+Granola Bar,count,.75,48,18,48,McLane
+Instant Ramen Cup,count,1.00,48,18,48,McLane
+Trail Mix,count,1.50,24,8,24,McLane
+Gum Pack,count,2.50,50,20,50,McLane
+Sandwich Bread Loaf,count,6.50,12,4,12,Local Bakery
+Whole Milk Gallon,count,3.75,10,4,10,Local Dairy
+Eggs Dozen,count,5.50,12,4,12,Local Farm
+Bagged Ice 10lb,count,2.50,30,10,30,Local Ice Co.
+Phone Charger Cable,count,12.50,15,5,15,McLane
+Paper Towels,count,6.50,12,4,12,McLane

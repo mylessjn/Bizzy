@@ -1,0 +1,14 @@
+ingredient,unit,current_qty,reorder_point,reorder_qty,supplier
+Eggs,count,360,120,360,Local Farm
+Bacon Strips,kg,15,6,15,Sysco
+Breakfast Sausage,kg,12,5,12,Sysco
+Shredded Hashbrowns,kg,20,8,20,Sysco
+Thick Sliced Bread,loaf,16,6,16,Local Bakery
+Unsalted Butter,kg,8,3,8,US Foods
+Pancake Mix,kg,15,5,15,US Foods
+Maple Syrup,bottle,10,4,10,US Foods
+Whole Milk,gallon,6,2,6,US Foods
+Flour Tortillas,count,60,20,60,US Foods
+Shredded Cheddar Cheese,kg,6,2,6,Sysco
+Salsa,kg,5,2,5,Sysco
+Canola Oil,liter,20,8,20,Sysco

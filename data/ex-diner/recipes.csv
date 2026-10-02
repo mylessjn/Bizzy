@@ -1,0 +1,27 @@
+menu_item,ingredient,qty_used
+Original Breakfast,Eggs,2
+Original Breakfast,Bacon Strips,0.075
+Original Breakfast,Breakfast Sausage,0.08
+Original Breakfast,Shredded Hashbrowns,0.15
+Original Breakfast,Thick Sliced Bread,0.14
+Original Breakfast,Unsalted Butter,0.01
+Kids Breakfast,Eggs,1
+Kids Breakfast,Bacon Strips,0.05
+Kids Breakfast,Shredded Hashbrowns,0.07
+Kids Breakfast,Thick Sliced Bread,0.07
+Breakfast Burrito,Flour Tortillas,1
+Breakfast Burrito,Eggs,3
+Breakfast Burrito,Bacon Strips,0.05
+Breakfast Burrito,Shredded Hashbrowns,0.08
+Breakfast Burrito,Shredded Cheddar Cheese,0.05
+Breakfast Burrito,Salsa,0.04
+French Toast,Thick Sliced Bread,0.07
+French Toast,Eggs,0.5
+French Toast,Whole Milk,0.01
+French Toast,Unsalted Butter,0.01
+French Toast,Maple Syrup,0.04
+Pancakes Side,Pancake Mix,0.15
+Pancakes Side,Unsalted Butter,0.01
+Pancakes Side,Maple Syrup,0.04
+Hashbrowns Side,Shredded Hashbrowns,0.15
+Hashbrowns Side,Canola Oil,0.02

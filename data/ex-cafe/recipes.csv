@@ -1,0 +1,40 @@
+menu_item,ingredient,qty_used
+Espresso,Espresso Coffee Beans,0.036
+Latte,Espresso Coffee Beans,0.036
+Latte,Whole Milk,0.08
+Iced Latte,Espresso Coffee Beans,0.036
+Iced Latte,Whole Milk,0.06
+Iced Latte,Ice,0.15
+Pumpkin Spice Latte,Espresso Coffee Beans,0.036
+Pumpkin Spice Latte,Whole Milk,0.075
+Pumpkin Spice Latte,Pumpkin Spice Syrup,0.03
+Pumpkin Spice Latte,Heavy Cream,0.015
+White Chocolate Mocha,Espresso Coffee Beans,0.036
+White Chocolate Mocha,Whole Milk,0.07
+White Chocolate Mocha,White Chocolate Sauce,0.02
+White Chocolate Mocha,Heavy Cream,0.015
+Hot Chocolate,Whole Milk,0.09
+Hot Chocolate,Cocoa Powder,0.02
+Hot Chocolate,Granulated Sugar,0.01
+Hot Chocolate,Heavy Cream,0.015
+Lemonade,Lemons,2
+Lemonade,Simple Syrup,0.03
+Lemonade,Ice,0.2
+Avocado Toast,Sourdough Bread,0.17
+Avocado Toast,Fresh Avocados,1
+Avocado Toast,Extra Virgin Olive Oil,0.01
+Avocado Toast,Lemons,0.25
+Avocado Toast,Red Pepper Flakes,0.0005
+Avocado Toast,Coarse Sea Salt,0.0005
+Avocado Toast,Black Pepper,0.0002
+Bacon Egg Toast,Sourdough Bread,0.17
+Bacon Egg Toast,Eggs,2
+Bacon Egg Toast,Bacon Strips,0.06
+Bacon Egg Toast,Butter,0.01
+Cream Cheese Danish,Enriched Flour,0.1
+Cream Cheese Danish,Unsalted Butter,0.04
+Cream Cheese Danish,Cream Cheese,0.05
+Cream Cheese Danish,Granulated Sugar,0.02
+Cream Cheese Danish,Eggs,0.5
+Cream Cheese Danish,Active Dry Yeast,0.002
+Cream Cheese Danish,Vanilla Extract,0.002
